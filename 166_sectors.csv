@@ -1,0 +1,166 @@
+1,Crop production
+2,Animal production and aquaculture
+3,Forestry
+4,Logging
+5,"Fishing, hunting and trapping"
+6,Support activities for agriculture and forestry
+7,Oil and gas extraction
+8,Coal mining
+9,Metal ore mining
+10,Nonmetallic mineral mining and quarrying
+11,Support activities for mining
+12,"Electric power generation, transmission and distribution"
+13,Natural gas distribution
+14,"Water, sewage and other systems"
+15,Construction
+16,Animal food manufacturing
+17,Grain and oilseed milling
+18,Sugar and confectionery product manufacturing
+19,Fruit and vegetable preserving and specialty food manufacturing
+20,Dairy product manufacturing
+21,Animal slaughtering and processing
+22,Seafood product preparation and packaging
+23,Bakeries and tortilla manufacturing
+24,Other food manufacturing
+25,Beverage and tobacco product manufacturing
+26,Textile mills and textile product mills
+27,"Apparel, leather and allied product manufacturing"
+28,Sawmills and wood preservation
+29,"Veneer, plywood, and engineered wood product manufacturing"
+30,Other wood product manufacturing
+31,"Pulp, paper, and paperboard mills"
+32,Converted paper product manufacturing
+33,Printing and related support activities
+34,Petroleum and coal products manufacturing
+35,"Chemical manufacturing (3251,2,3,9)"
+36,Pharmaceutical and medicine manufacturing
+37,"Chemical manufacturing (3255,6)"
+38,Plastics product manufacturing
+39,Rubber product manufacturing
+40,Nonmetallic mineral product manufacturing
+41,Iron and steel mills and ferroalloy manufacturing
+42,Steel product manufacturing from purchased steel
+43,Alumina and aluminum production and processing
+44,Nonferrous metal (except aluminum) production and processing
+45,Foundries
+46,"Fabricated metal product manufacturing (3321,2,5,6,9)"
+47,"Fabricated metal product manufacturing (3323,4)"
+48,"Machine shops; turned product; and screw, nut, and bolt manufacturing"
+49,"Coating, engraving, heat treating, and allied activities"
+50,"Machinery manufacturing (3331,2,4,9)"
+51,Commercial and service industry machinery manufacturing
+52,Metalworking machinery manufacturing
+53,"Engine, turbine, and power transmission equipment manufacturing"
+54,Computer and peripheral equipment manufacturing
+55,Communications equipment manufacturing
+56,Audio and video equipment manufacturing
+57,Semiconductor and other electronic component manufacturing
+58,"Navigational, measuring, electromedical, and control instruments manufacturing"
+59,Manufacturing and reproducing magnetic and optical media
+60,Electric lighting equipment manufacturing
+61,Household appliance manufacturing
+62,Electrical equipment manufacturing
+63,Other electrical equipment and component manufacturing
+64,Motor vehicle manufacturing
+65,Motor vehicle body and trailer manufacturing
+66,Motor vehicle parts manufacturing
+67,Aerospace product and parts manufacturing
+68,Railroad rolling stock manufacturing
+69,Ship and boat building
+70,Other transportation equipment manufacturing
+71,"Furniture and related product manufacturing (3371,2)"
+72,Other furniture related product manufacturing
+73,Medical equipment and supplies manufacturing
+74,Other miscellaneous manufacturing
+75,Wholesale trade
+76,Motor vehicle and parts dealers
+77,Food and beverage retailers
+78,General merchandise retailers
+79,"All other retail trade (444, 449, 456-9)"
+80,Air transportation
+81,Rail transportation
+82,Water transportation
+83,Truck transportation
+84,Transit and ground passenger transportation
+85,Pipeline transportation
+86,Scenic and sightseeing transportation and support activities for transportation
+87,Couriers and messengers
+88,Warehousing and storage
+89,Software publishers
+90,Motion picture and sound recording industries
+91,Telecommunications
+92,"Computing infrastructure providers, data processing, web hosting, and related services"
+93,"Miscellaneous information services (5131, 516, 519)"
+94,"Monetary authorities - central bank, and credit intermediation and related activities"
+95,"Securities, commodity contracts, and other financial investments and related activities"
+96,"Funds, trusts, and other financial vehicles"
+97,Insurance carriers
+98,"Agencies, brokerages, and other insurance related activities"
+99,Real estate
+100,Automotive equipment rental and leasing
+101,"Rental and leasing services (5322,3,4)"
+102,Lessors of nonfinancial intangible assets (except copyrighted works)
+103,Legal services
+104,"Accounting, tax preparation, bookkeeping, and payroll services"
+105,"Architectural, engineering, and related services"
+106,Specialized design services
+107,Computer systems design and related services
+108,"Management, scientific, and technical consulting services"
+109,Scientific research and development services
+110,"Advertising, public relations, and related services"
+111,"Other professional, scientific, and technical services"
+112,Management of companies and enterprises
+113,Office administrative services
+114,Facilities support services
+115,Employment services
+116,Business support services
+117,Travel arrangement and reservation services
+118,Investigation and security services
+119,Services to buildings and dwellings
+120,Other support services
+121,Waste management and remediation services
+122,Elementary and secondary schools; private
+123,"Junior colleges, colleges, universities, and professional schools; private (6112,3)"
+124,Other educational services; private (6114-7)
+125,Offices of physicians
+126,Offices of dentists
+127,Offices of other health practitioners
+128,Outpatient care centers
+129,Medical and diagnostic laboratories
+130,Home healthcare services
+131,Other ambulatory healthcare services
+132,Hospitals; private
+133,Nursing and residential care facilities
+134,Individual and family services
+135,"Community food and housing, emergency and other relief services, and vocational rehabilitation services"
+136,Child daycare services
+137,Performing arts companies
+138,Spectator sports
+139,"Promoters of performing arts and sports, and agents for public figures"
+140,"Independent artists, writers, and performers"
+141,"Museums, historical sites, and similar institutions"
+142,Amusement parks and arcades
+143,Gambling industries (except casino hotels)
+144,Other amusement and recreation industries
+145,Accommodation
+146,Food services and drinking places
+147,Automotive repair and maintenance
+148,Electronic and precision equipment repair and maintenance
+149,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance
+150,Personal and household goods repair and maintenance
+151,Personal care services
+152,Death care services
+153,Drycleaning and laundry services
+154,Other personal services
+155,Religious organizations
+156,Grantmaking and giving services and social advocacy organizations
+157,"Civic, social, professional, and similar organizations"
+158,Private households
+159,"Federal government, excluding postal service"
+160,Postal service
+161,Educational services; state and local
+162,Hospitals; state and local
+163,"State and local government, excluding education and hospitals"
+164,Owner-occupied dwellings
+165,"Scrap, used and secondhand goods"
+166,Noncomparable imports and rest of the world adjustment
