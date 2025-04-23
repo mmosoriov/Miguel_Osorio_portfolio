@@ -68,6 +68,11 @@ The system successfully classifies credit card numbers based on:
 - Plotly for visualization
 - JFlap for DFA design and visualization
 
+### Sample of visualization Master Card
+![Credit Card DFA Diagram](Master_Card_example.png)
+### Sample of visualization invalid
+![Credit Card DFA Diagram](invalid_example.png)
+
 ## Repository Structure
 
 ```
