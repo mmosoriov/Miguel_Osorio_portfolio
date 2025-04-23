@@ -35,6 +35,9 @@ This project establishes correlations between different sectors of the U.S. econ
 ### Tools & Technologies
 - Python (NumPy for computation)
 - Plotly for interactive data visualization
+
+### Sample of visualization
+![Credit Card DFA Diagram](images/Example_plot_computing.png)
   
 
 ## 2. Credit Card Validation Using DFA and Luhn's Algorithm
